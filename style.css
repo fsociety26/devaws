@@ -1,0 +1,39 @@
+#nav_top{
+    background-color:#212121;
+    padding: 0.10% 5%;
+}
+#nav_top a{
+    font-size: 20px;
+    padding-left:25px ; 
+    color: antiquewhite;
+}
+#searchbox{
+    background-color:rgb(244, 244, 232);
+    position: relative ;
+    left : 10px;
+}
+#searchbox::placeholder{
+    color:#212121;
+}
+#searchbtn{
+    background-color: antiquewhite;
+    color: #212121;
+}
+<!--slider-->
+  .carousel,
+.carousel-inner,
+.carousel-item {
+  height: 80vh;
+}
+.carousel-item img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+<!--Tagline-->
+  #heading{
+    margin-top: 20px;
+  }
+  #note{
+    margin-top: 10px;
+  }
